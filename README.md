@@ -1,3 +1,1 @@
-# prototype
-html,js,css
 
